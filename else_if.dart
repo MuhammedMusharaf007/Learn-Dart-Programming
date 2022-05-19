@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   int a = -3;
   if (a < 0) {
